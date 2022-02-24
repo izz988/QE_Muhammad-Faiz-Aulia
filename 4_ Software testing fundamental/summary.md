@@ -1,3 +1,29 @@
+section ini berisi dasar-dasar software testing yang berisi tentang penjelasan dari apa itu software testing, macam-macam software testing, tingkat-tingkat testing,
+
+
+1. Software bugs could be ............. or even dangerous. Software bugs can potentially cause monetary and human loss
+
+Easy
+
+2. Berikut ini yang tidak termasuk dalam Software Testing Important adalah
+
+Costumer complaint
+
+3. Apa yang dimaksud dengan Software Testing menurut standar ANSI / IEEE 1059? 
+
+Sebuah proses menganalisis item perangkat lunak untuk mendeteksi perbedaan antara kondisi yang ada dan yang dibutuhkan (yaitu, cacat) dan untuk mengevaluasi fitur dari item perangkat lunak.
+
+4. Berikut ini yang tidak termasuk Types of Software Testing Adalah
+
+Progress
+
+5. In this process, the software testers ........ the test cases and generate the test reports
+
+Execute
+
+
+
+
 Task 1.
 
 ![4_1](https://user-images.githubusercontent.com/87752242/155492243-82c20c3e-0e32-467c-af19-4cf91dcccb7d.PNG)
