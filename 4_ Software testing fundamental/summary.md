@@ -1,4 +1,4 @@
-section ini berisi dasar-dasar software testing yang berisi tentang penjelasan dari apa itu software testing, macam-macam software testing, tingkat-tingkat testing,
+Section ini berisi dasar-dasar software testing yang berisi tentang penjelasan dari apa itu software testing, macam-macam software testing, tingkat-tingkat testing,
 
 
 1. Software bugs could be ............. or even dangerous. Software bugs can potentially cause monetary and human loss
