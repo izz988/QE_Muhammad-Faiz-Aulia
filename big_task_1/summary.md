@@ -11,6 +11,8 @@ link testrail: https://qefaizaulia.testrail.io/index.php?/projects/overview/1
 ![bigtask_03](https://user-images.githubusercontent.com/87752242/156929505-b36fa475-0d72-4fba-ba41-4a91178993ed.PNG)
 
 
+
+
 problem: testrail portal berita
 
 ![bt_berita_01](https://user-images.githubusercontent.com/87752242/156930004-db1f5b11-6c23-455d-8688-6eddc0ea1a15.PNG)
@@ -20,11 +22,15 @@ problem: testrail portal berita
 ![bt_berita_05](https://user-images.githubusercontent.com/87752242/156930011-a5a664e9-2f3f-4538-9ee4-572854a252ed.PNG)
 
 
+
+
 problem: testraill toko online
 ![bt_toko_01](https://user-images.githubusercontent.com/87752242/156930032-30ad7d43-4603-4500-bc06-e858234acda2.PNG)
 ![bt_toko_02](https://user-images.githubusercontent.com/87752242/156930034-fbe83719-1fa6-4df8-bdc9-8a9a558bf2d1.PNG)
 ![bt_toko_03](https://user-images.githubusercontent.com/87752242/156930035-73ff82e5-2bd8-4731-be06-f0d0d5a81f94.PNG)
 ![bt_toko_04](https://user-images.githubusercontent.com/87752242/156930037-e57fcadb-bcbb-491d-b36f-6994bfe403be.PNG)
+
+
 
 testrail overview:
 ![bt_overview](https://user-images.githubusercontent.com/87752242/156930072-6c65b184-6e34-471a-9acd-043eff5c357e.PNG)
