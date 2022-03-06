@@ -3,6 +3,8 @@
 # link testrail: https://qefaizaulia.testrail.io/index.php?/projects/overview/1
 
 
+
+
 ## problem: jira Portal Berita dan toko online
 
 ![bigtask_00](https://user-images.githubusercontent.com/87752242/156929486-da998eb3-d069-4cb3-93cd-56af1459318e.PNG)
