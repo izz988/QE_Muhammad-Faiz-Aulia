@@ -1,5 +1,6 @@
 problem: jira Portal Berita dan toko online
 link jira: https://qefaizaulia88.atlassian.net/jira/software/projects/FQ/boards/2
+
 link testrail: https://qefaizaulia.testrail.io/index.php?/projects/overview/1
 
 
